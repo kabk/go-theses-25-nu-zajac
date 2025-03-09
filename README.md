@@ -1,2 +1,4 @@
 # go-theses-25-nu-zajac
- 
+When we look at typefaces, we form a loosey goosey metaphysical picture of letters; ‹this can look like this other thing›, ‹these things are related›, ‹these proportions can exist side by side›. But what interests me more is the opposite — the use of theory as a way of selectively developing metaphysical views of type, and the use of theoretiacal categories and designations as a tool of speculation and design. Formal typeface design is a field full of pragmatism which, perhaps, consequently loses variety by rejecting much of the metaphysical whimsy that can inspire and has inspired remarkable typefaces.
+I look into why our categories aren't bulletproof and explore ways in which that can be used to design a process and affect output.\
+[Read the thing here](https://kabk.github.io/go-theses-25-nu-zajac/)
