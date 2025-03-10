@@ -618,8 +618,8 @@ label.margin-toggle:not(.sidenote-number) {
         top: -0.5rem;
         left: 0.1rem; */
     font-feature-settings: "sups" off, "onum" off, "lnum" on;
-    color: var(--backgroundcol);
-    background: black;
+    color: black;
+    background: #c8c8c6;
     border-radius: 1rem;
   }
 
